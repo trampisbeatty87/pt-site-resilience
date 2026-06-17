@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "pt-template",
+      "runtimeExecutable": "/Users/trampisbeatty/.local/bin/node",
+      "runtimeArgs": ["serve.js"],
+      "port": 8080
+    },
+    {
+      "name": "pt-form",
+      "runtimeExecutable": "/Users/trampisbeatty/.local/bin/node",
+      "runtimeArgs": ["/Users/trampisbeatty/Desktop/pt-orchestrator/serve-form.js"],
+      "port": 8090
+    }
+  ]
+}
